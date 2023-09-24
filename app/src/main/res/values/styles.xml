@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="Button_Style" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textSize">30sp</item>
+        <item name="android:background">@color/royal</item>
+        <item name="android:textColor">@color/thistle</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ServiceButton_Style" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textSize">30sp</item>
+        <item name="android:background">@color/grape</item>
+        <item name="android:textColor">@color/thistle</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="EqualButton_Style" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textSize">30sp</item>
+        <item name="android:background">@color/lilac</item>
+        <item name="android:textColor">@color/thistle</item>
+        <item name="android:gravity">center</item>
+    </style>
+    
+</resources>
